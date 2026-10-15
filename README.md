@@ -1,5 +1,7 @@
 # Eren Can Almaz
 
+**English** · [Türkçe](README.tr.md)
+
 **Eren Can Almaz is an Electrical Engineering (Elektrotechnik) student at RWTH Aachen University who
 builds interactive tools that make engineering visible** — neural networks, flight control and signals,
 running in the browser or on your own computer.
@@ -23,11 +25,3 @@ with Whisper for Windows, macOS and Linux; no audio leaves the computer.
 [Download](https://github.com/writerforight/ders-transkript/releases/latest) · [Source](https://github.com/writerforight/ders-transkript)
 
 Open to HiWi / tutor roles in control, machine learning and signal processing.
-
----
-
-**Türkçe** — RWTH Aachen Üniversitesi'nde Elektrik Mühendisliği (Elektrotechnik) öğrencisiyim.
-Mühendisliği görünür kılan etkileşimli araçlar geliştiriyorum: bir sinir ağının uzayı katman katman
-nasıl büktüğünü gösteren [Neural Nets Space Bending](https://writerforight.github.io/mlp-space-deformation/),
-kontrolcü tasarımı için [Quadrotor Lab](https://writerforight.github.io/drone-wind-sim/) ve ders
-kayıtlarını internetsiz metne çeviren [Ders Transkript](https://github.com/writerforight/ders-transkript).
