@@ -1,6 +1,6 @@
 # Eren Can Almaz
 
-**English** · [Türkçe](https://github.com/writerforight/writerforight/blob/main/README.tr.md)
+**English** · [Deutsch](https://github.com/writerforight/writerforight/blob/main/README.de.md) · [Türkçe](https://github.com/writerforight/writerforight/blob/main/README.tr.md)
 
 **Eren Can Almaz is an Electrical Engineering (Elektrotechnik) student at RWTH Aachen University who
 builds interactive tools that make engineering visible** — neural networks, flight control and signals,

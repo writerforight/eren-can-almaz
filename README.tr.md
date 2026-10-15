@@ -1,6 +1,6 @@
 # Eren Can Almaz
 
-[English](https://github.com/writerforight) · **Türkçe**
+[English](https://github.com/writerforight) · [Deutsch](https://github.com/writerforight/writerforight/blob/main/README.de.md) · **Türkçe**
 
 **Eren Can Almaz, RWTH Aachen Üniversitesi'nde Elektrik Mühendisliği (Elektrotechnik) öğrencisi;
 mühendisliği görünür kılan etkileşimli araçlar geliştiriyor** — sinir ağları, uçuş kontrolü ve
