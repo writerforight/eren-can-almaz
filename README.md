@@ -1,33 +1,33 @@
 # Eren Can Almaz
 
 **Eren Can Almaz is an Electrical Engineering (Elektrotechnik) student at RWTH Aachen University who
-builds open-source tools around audio, speech recognition and machine learning** — mostly in Python and
-JavaScript, and preferably from first principles, so that how they work stays visible.
+builds interactive tools that make engineering visible** — neural networks, flight control and signals,
+running in the browser or on your own computer.
 
 🌐 [writerforight.github.io](https://writerforight.github.io)
 
-<a href="https://writerforight.github.io/mlp-space-deformation/"><img src="https://raw.githubusercontent.com/writerforight/mlp-space-deformation/main/docs/deformation.gif" width="480" alt="Neural Space Deformation: a neural network bending space layer by layer"></a>
+<a href="https://writerforight.github.io/mlp-space-deformation/"><img src="https://raw.githubusercontent.com/writerforight/mlp-space-deformation/main/docs/deformation.gif" width="480" alt="Neural Nets Space Bending: a neural network bending space layer by layer"></a>
 
 ## Projects
 
-| Project | What it is | |
-|---|---|---|
-| **[Neural Space Deformation](https://github.com/writerforight/mlp-space-deformation)** | Interactive browser visualization of how a small neural network deforms space layer by layer and how backpropagation reshapes it — Jacobians, the neural tangent kernel, topology and width, catastrophic forgetting. MLP and backprop written from scratch in JavaScript. | [Live demo](https://writerforight.github.io/mlp-space-deformation/) · MIT |
-| **[Ders Transkript](https://github.com/writerforight/ders-transkript)** | Offline lecture-transcription desktop app for Windows, macOS and Linux: Whisper speech recognition running locally, live transcription while recording, no audio leaves the computer. | [Download](https://github.com/writerforight/ders-transkript/releases/latest) · GPL-3.0 |
-| **[YouTube Segment Downloader](https://github.com/writerforight/youtube-segment-downloader)** | PySide6 desktop app to download a whole YouTube video or only a chosen time range, as video or MP3/M4A audio (yt-dlp + ffmpeg). | MIT |
-| **[Char-Based-RNN](https://github.com/writerforight/Char-Based-RNN)** | Character-level RNN language model in NumPy with a Tkinter interface; learns online, one character per step, and shows next-character probabilities on hover. | MIT |
+**[Neural Nets Space Bending](https://writerforight.github.io/mlp-space-deformation/)** — watch a small
+neural network bend, stretch and fold space layer by layer while it trains.
+[Live](https://writerforight.github.io/mlp-space-deformation/) · [Source](https://github.com/writerforight/mlp-space-deformation)
 
-## Interests
+**[Quadrotor Lab](https://writerforight.github.io/drone-wind-sim/)** — a browser quadrotor simulator for
+designing and tuning a cascaded PID controller and reading its step response live.
+[Live](https://writerforight.github.io/drone-wind-sim/) · [Source](https://github.com/writerforight/drone-wind-sim)
 
-Neural networks and how they represent data · speech recognition · signal processing ·
-tools that make mathematics visible.
+**[Ders Transkript](https://github.com/writerforight/ders-transkript)** — offline lecture transcription
+with Whisper for Windows, macOS and Linux; no audio leaves the computer.
+[Download](https://github.com/writerforight/ders-transkript/releases/latest) · [Source](https://github.com/writerforight/ders-transkript)
+
+Open to HiWi / tutor roles in control, machine learning and signal processing.
 
 ---
 
-**Türkçe** — RWTH Aachen Üniversitesi'nde Elektrik Mühendisliği (Elektrotechnik) öğrencisiyim. Ses,
-konuşma tanıma ve makine öğrenmesi üzerine açık kaynak araçlar geliştiriyorum; çoğunlukla Python ve
-JavaScript ile, ve mümkün olduğunca temelden yazarak. Öne çıkan projelerim:
-[Neural Space Deformation](https://writerforight.github.io/mlp-space-deformation/) — bir sinir ağının
-uzayı katman katman nasıl büktüğünü gösteren etkileşimli görselleştirme — ve
-[Ders Transkript](https://github.com/writerforight/ders-transkript): ders kayıtlarını internetsiz metne
-çeviren, Windows, macOS ve Linux'ta çalışan bir uygulama.
+**Türkçe** — RWTH Aachen Üniversitesi'nde Elektrik Mühendisliği (Elektrotechnik) öğrencisiyim.
+Mühendisliği görünür kılan etkileşimli araçlar geliştiriyorum: bir sinir ağının uzayı katman katman
+nasıl büktüğünü gösteren [Neural Nets Space Bending](https://writerforight.github.io/mlp-space-deformation/),
+kontrolcü tasarımı için [Quadrotor Lab](https://writerforight.github.io/drone-wind-sim/) ve ders
+kayıtlarını internetsiz metne çeviren [Ders Transkript](https://github.com/writerforight/ders-transkript).
