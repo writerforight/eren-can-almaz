@@ -20,6 +20,11 @@ kleines neuronales Netz den Raum während des Trainings Schicht für Schicht bie
 Browser, um eine kaskadierte PID-Regelung zu entwerfen, einzustellen und ihre Sprungantwort live zu verfolgen.
 [Live](https://writerforight.github.io/drone-wind-sim/) · [Quellcode](https://github.com/writerforight/drone-wind-sim)
 
+**[Engineering Atlas](https://writerforight.github.io/engineering-atlas/)** — Ingenieurmathematik zum Anfassen:
+Jedes Thema verbindet eine Live-Visualisierung mit einer schrittweisen Herleitung aus den Grundprinzipien,
+angefangen bei M² = −I und der Laplace-Transformation eines Integrals.
+[Live](https://writerforight.github.io/engineering-atlas/) · [Quellcode](https://github.com/writerforight/engineering-atlas)
+
 **[Ders Transkript](https://github.com/writerforight/ders-transkript)** — Offline-Transkription von
 Vorlesungsaufnahmen mit Whisper für Windows, macOS und Linux; keine Audiodaten verlassen den Rechner.
 [Download](https://github.com/writerforight/ders-transkript/releases/latest) · [Quellcode](https://github.com/writerforight/ders-transkript)

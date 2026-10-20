@@ -20,6 +20,11 @@ ağının eğitilirken uzayı katman katman nasıl büktüğünü, gerdiğini ve
 ayarlamak ve basamak yanıtını canlı okumak için tarayıcıda çalışan bir quadrotor simülatörü.
 [Canlı](https://writerforight.github.io/drone-wind-sim/) · [Kaynak kod](https://github.com/writerforight/drone-wind-sim)
 
+**[Engineering Atlas](https://writerforight.github.io/engineering-atlas/)** — elle oynanabilen mühendislik
+matematiği: her konu, canlı bir görselleştirmeyi ilk prensiplerden adım adım bir türetmeyle birleştiriyor.
+İlk konular M² = −I ve bir integralin Laplace dönüşümü.
+[Canlı](https://writerforight.github.io/engineering-atlas/) · [Kaynak kod](https://github.com/writerforight/engineering-atlas)
+
 **[Ders Transkript](https://github.com/writerforight/ders-transkript)** — Whisper ile ders kayıtlarını
 internetsiz metne çeviren uygulama; Windows, macOS ve Linux. Ses bilgisayardan çıkmaz.
 [İndir](https://github.com/writerforight/ders-transkript/releases/latest) · [Kaynak kod](https://github.com/writerforight/ders-transkript)

@@ -20,6 +20,11 @@ neural network bend, stretch and fold space layer by layer while it trains.
 designing and tuning a cascaded PID controller and reading its step response live.
 [Live](https://writerforight.github.io/drone-wind-sim/) · [Source](https://github.com/writerforight/drone-wind-sim)
 
+**[Engineering Atlas](https://writerforight.github.io/engineering-atlas/)** — engineering math you can move:
+every topic pairs a live visualization with a step-by-step derivation from first principles, starting with
+M² = −I and the Laplace transform of an integral.
+[Live](https://writerforight.github.io/engineering-atlas/) · [Source](https://github.com/writerforight/engineering-atlas)
+
 **[Ders Transkript](https://github.com/writerforight/ders-transkript)** — offline lecture transcription
 with Whisper for Windows, macOS and Linux; no audio leaves the computer.
 [Download](https://github.com/writerforight/ders-transkript/releases/latest) · [Source](https://github.com/writerforight/ders-transkript)
